@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCheckLoop
+id btnCheckNestedLoop
+id btnCheckNumberLoop
+id btnLoopExample
+id edtValue
+id tvAnswer
+layout activity_loop_example
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.RevisionPrecticals
+style Theme.RevisionPrecticals
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.revisionprecticals.app-mergeDebugResources-31:/layout/activity_loop_example.xml",
+        "source": "com.example.revisionprecticals.app-main-34:/layout/activity_loop_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.2\\com.example.revisionprecticals.app-mergeDebugResources-31:\\layout\\activity_loop_example.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.2\\com.example.revisionprecticals.app-main-34:\\layout\\activity_loop_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.2\\com.example.revisionprecticals.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.2\\com.example.revisionprecticals.app-main-34:\\layout\\activity_main.xml"
+    }
+]
